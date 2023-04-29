@@ -2,14 +2,14 @@ main:
   - name: "Home"
     url: "/"
     weight: 1
-  - name: "About"
-    url: "/about/"
+  - name: "A Propos"
+    url: "/propos/"
     weight: 2
   - name: "Services"
     url: "/services/"
     weight: 3
-  - name: "Catalog"
-    url: "/catalog/"
+  - name: "Catalogue"
+    url: "/catalogue/"
     weight: 4
   - name: "Contact"
     url: "/contact/"
