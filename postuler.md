@@ -1,8 +1,8 @@
 ---
-title: Apply
+title: Postuler
 layout: teams
 description: Apply
-permalink: "/apply/"
+permalink: "/postuler/"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
