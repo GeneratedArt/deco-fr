@@ -1,5 +1,5 @@
 ---
-title: Catalog
+title: Catalogue
 layout: teams
 description: Catalog
 permalink: "/catalog/"
