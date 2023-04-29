@@ -1,7 +1,7 @@
 ---
 title: Postuler
 layout: teams
-description: Postuler
+description: Découvrez des œuvres d'art génératif captivantes et innovantes pour enrichir vos espaces intérieurs et extérieurs, tout en fusionnant technologie et expression artistique pour créer des expériences dynamiques et interactives.
 permalink: "/postuler/"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
