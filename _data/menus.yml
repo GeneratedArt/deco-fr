@@ -31,7 +31,7 @@ main:
     weight: 10
 
 footer:
-  - name: "Main site"
+  - name: "Site principal"
     url: "https://generatedart.com"
     weight: 1
   - name: "Shop"
@@ -40,14 +40,14 @@ footer:
   - name: "Exposition"
     url: "https://expo.generatedart.com"
     weight: 3
-  - name: "Decoration"
+  - name: "Décoration"
     url: "https://deco.generatedart.com"
     weight: 4
-  - name: "Research"
+  - name: "Recherche"
     url: "https://medium.com/generatedart"
     weight: 5
-  - name: "Apply"
-    url: "/apply/"
+  - name: "Postuler"
+    url: "/postuler/"
     weight: 6
 
 
