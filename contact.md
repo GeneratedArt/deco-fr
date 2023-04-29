@@ -4,10 +4,10 @@ layout: contact
 description: Contact
 ---
 
-We're delighted to have you join us on our generative art journey! If you have any general inquiries or questions, please don't hesitate to contact us via email or the form below. We're here to help in any way possible.
+Nous sommes ravis de vous accueillir dans notre aventure d'art génératif ! Si vous avez des questions générales ou des demandes de renseignements, n'hésitez pas à nous contacter par e-mail ou via le formulaire ci-dessous. Nous sommes là pour vous aider de toutes les manières possibles.
 
-If you're interested in our decoration services, feel free to request a quote, and our team will promptly review it and get back to you. We also encourage you to check out our catalogue page to get a clear idea of what we offer.
+Si vous êtes intéressé par nos services de décoration, n'hésitez pas à demander un devis, et notre équipe l'examinera rapidement et vous répondra. Nous vous encourageons également à consulter notre page de catalogue pour avoir une idée claire de ce que nous proposons.
 
-For those looking to host generative art exhibitions at their venue, submit your application, and our team will review and respond as soon as possible.
+Pour ceux qui souhaitent organiser des expositions d'art génératif dans leur lieu, soumettez votre candidature, et notre équipe l'examinera et vous répondra dès que possible.
 
-Artists eager to be part of our upcoming exhibitions are invited to apply. We're always excited to discover new talent and showcase innovative generative art pieces.
+Les artistes désireux de faire partie de nos prochaines expositions sont invités à postuler. Nous sommes toujours ravis de découvrir de nouveaux talents et de présenter des œuvres d'art génératif innovantes.
