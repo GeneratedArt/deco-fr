@@ -7,12 +7,12 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-We are excited to support venues and generative artists who wish to showcase generative art works in captivating exhibitions. Whether you're a venue looking to organize a generative art exhibition or an artist seeking the perfect space to display your creations, you've come to the right place.
+Nous sommes ravis de soutenir les lieux et les artistes génératifs qui souhaitent présenter des œuvres d'art génératif lors d'expositions captivantes. Que vous soyez un lieu cherchant à organiser une exposition d'art génératif ou un artiste à la recherche de l'espace idéal pour exposer vos créations, vous êtes au bon endroit.
 
-Our team of professionals is dedicated to helping you create a memorable and engaging exhibition experience for your audience. We offer a range of services tailored to your specific needs, including technical support, exhibition design, promotion, and more. [See full list of services](/services)
+Notre équipe de professionnels est dédiée à vous aider à créer une expérience d'exposition mémorable et engageante pour votre public. Nous proposons une gamme de services adaptés à vos besoins spécifiques, notamment le support technique, la conception d'expositions, la promotion et bien d'autres. [Voir la liste complète des services](/services)
 
-To get started, please fill out the application form below with the required information about your venue or artwork. This will help us understand your needs and preferences, enabling us to provide the best possible support for your exhibition.
+Pour commencer, veuillez remplir le formulaire de candidature ci-dessous avec les informations requises concernant votre lieu ou votre œuvre d'art. Cela nous aidera à comprendre vos besoins et vos préférences, nous permettant ainsi de fournir le meilleur soutien possible pour votre exposition.
 
-If you would like to receive a personalized quote for our services, please follow the provided link to our [quote request form](/quote). By submitting your details, our team will be able to assess your requirements and provide you with a comprehensive and competitive quote.
+Si vous souhaitez recevoir un devis personnalisé pour nos services, veuillez suivre le lien fourni vers notre [formulaire de demande de devis](/devis). En soumettant vos coordonnées, notre équipe pourra évaluer vos exigences et vous fournir un devis complet et compétitif.
 
-We look forward to collaborating with you and bringing your vision to life in a stunning generative art exhibition.
+Nous sommes impatients de collaborer avec vous et de donner vie à votre vision lors d'une magnifique exposition d'art génératif.
