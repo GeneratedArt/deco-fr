@@ -1,7 +1,7 @@
 ---
 title: A Propos
 layout: page
-description: About
+description: A Propos
 bodyClass: page-about
 ---
 
